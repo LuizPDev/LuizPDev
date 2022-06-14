@@ -1,9 +1,14 @@
+[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logoColor=black&color=FF0080)](https://github.com/Luiz-coder911)
+[![DISCORD](https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logoColor=white&color=5865F2)](https://discord.gg/w7nfRHdz9w)
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![](https://komarev.com/ghpvc/?username=Luiz-coder911&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
+
+
 
 - 🎓 &nbsp; Estudando **FRONT END** na <a href="https://www.udemy.com/">UDEMY</a>.
 - 💼 &nbsp; Trabalhando como **FiveM DEV BACK-END** na <a href="https://discord.gg/w7nfRHdz9w">Storm Devs</a>
@@ -30,22 +35,15 @@
 
 <br/>
 
-<a href="https://github.com/Luiz-coder911">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-coder911&theme=dracula&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=Luiz-coder911&theme=radical&show_icons=true)](https://github.com/Luiz-coder911)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-coder911&hide=html&layout=compact=true&theme=radical)](https://github.com/Luiz-coder911)
 
 <br/>
 
+
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Discord: ! Luiz#7259](https://img.shields.io/badge/-!%20Luiz%207259-006bed?style=flat-square&logo=Discord&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub Luiz-coder911]( https://img.shields.io/github/followers/Luiz-coder911?label=follow&style=social)](https://github.com/Luiz-coder911)
-![GitHub Org's stars](https://img.shields.io/github/stars/Luiz-coder911?style=social)
-
-
-Exemplo   | Valor do exemplo
---------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
+[![Discord: ! Luiz#7259](https://img.shields.io/badge/-!%20Luiz%207259-006bed?style=flat-square&logo=Discord&logoColor=white&color=5865F2&link=https://discord.gg/w7nfRHdz9w)
+](https://discord.gg/w7nfRHdz9w)
+[![GitHub: Luiz-coder911]( https://img.shields.io/github/followers/Luiz-coder911?label=follow&style=social)](https://github.com/Luiz-coder911)
