@@ -37,6 +37,5 @@
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
 [![Discord: ! Luiz#7259](https://img.shields.io/badge/-!%20Luiz#7259-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/w7nfRHdz9w)](https://discord.gg/w7nfRHdz9w)
 [![GitHub Luiz-coder911]( https://img.shields.io/github/followers/Luiz-coder911?label=follow&style=social)](https://github.com/Luiz-coder911)
