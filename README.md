@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 <!--
 - 🔭 I’m currently working on Storm Devs
