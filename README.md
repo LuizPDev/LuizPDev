@@ -1,6 +1,5 @@
 ### Hi there 👋 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/seu-usuario/seu-repositorio/releases)
-
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/seu-repositorio/projects/1)
 <!--
 - 🔭 I’m currently working on Storm Devs
 - 🌱 I’m currently learning JS, HTML, CSS
