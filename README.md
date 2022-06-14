@@ -40,7 +40,7 @@
 
 <br/>
 
-
+![Snake animation](https://github.com/Luiz-coder911/Luiz-coder911/blob/output/github-contribution-grid-snake.svg)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
