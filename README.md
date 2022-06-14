@@ -1,5 +1,7 @@
 ### Hi there 👋 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/seu-repositorio/projects/1)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luiz-coder911)
+[![Devlog](https://img.shields.io/badge/Devlog-999999?style=for-the-badge&logo=Files&logoColor=white)](https://gist.github.com/seu-usuario/sua-gist-ou-readme)
+
 <!--
 - 🔭 I’m currently working on Storm Devs
 - 🌱 I’m currently learning JS, HTML, CSS
