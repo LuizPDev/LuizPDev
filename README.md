@@ -1,29 +1,31 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
-
-> Faça uma breve aprensentação sobre você e a sua área.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
-----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+```javascript
+const LuanderFarias = {
+  🏢: (school) {
+    Alura: 'https://www.alura.com.br/'
+  },
+  💻: (tools and languages) {
+    VisualStudioCode: 'https://code.visualstudio.com/',
+    HTML5: 'https://developer.mozilla.org/pt-BR/docs/Web/HTML',
+    CSS: 'https://developer.mozilla.org/pt-BR/docs/Web/CSS',
+    Javascript: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
+    NextJS: 'https://nextjs.org/',
+    NodeJS: 'https://nodejs.org',
+    Electron: 'https://www.electronjs.org/',
+    Slack: 'https://www.slack.com',
+    Git: 'https://git-scm.com/'
+  🛠️: (projects) {
+    Cheep: 'https://github.com/LuanderFarias/Cheep',
+    PhoenixVR: 'https://github.com/LuanderFarias/PhoenixVR',
+    WebScreenRecorder: 'https://github.com/WebScreenRecorder/WebScreenRecorder.github.io',
+    Saturnio: 'https://github.com/LuanderFarias/Saturnio',
+    MidnightLauncher/Client: 'https://github.com/MidnightLauncher'
+  }
+ 📧: (contact)  {
+    Instagram: 'https://instagram.com/luanderfarias/',
+    Twitter: 'https://twitter.com/LuanderFarias',
+    Discord: 'https://discord.gg/ZP7fGys',
+    Linkedin: 'https://www.linkedin.com/in/luander-de-faria-474269205/',
+    Youtube: 'https://www.youtube.com/channel/UC-gZiNTB58C1APIyp15cqxA'
+  }
+}
+```
