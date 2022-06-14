@@ -38,7 +38,14 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Discord: ! Luiz#7259](https://img.shields.io/badge/-!%20Luiz##7259-006bed?style=flat-square&logo=Discord&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Discord: ! Luiz#7259](https://img.shields.io/badge/-!%20Luiz%207259-006bed?style=flat-square&logo=Discord&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub Luiz-coder911]( https://img.shields.io/github/followers/Luiz-coder911?label=follow&style=social)](https://github.com/Luiz-coder911)
 ![GitHub Org's stars](https://img.shields.io/github/stars/Luiz-coder911?style=social)
 
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
