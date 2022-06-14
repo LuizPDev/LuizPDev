@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
 <!--
 - 🔭 I’m currently working on Storm Devs
