@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
 <!--
 - 🔭 I’m currently working on Storm Devs
