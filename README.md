@@ -10,9 +10,8 @@
 
 
 
-- 🎓 &nbsp; Estudando **FRONT END** na <a href="https://www.udemy.com/">UDEMY</a>.
-- 💼 &nbsp; Trabalhando como **FiveM DEV BACK-END** na <a href="https://discord.gg/w7nfRHdz9w">Storm Devs</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JS**.
+- 🎓 &nbsp; Estudando Programação **FULL STACK** na <a href="https://infinityschool.com.br">Infinity School</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **REACT JS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
