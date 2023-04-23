@@ -17,11 +17,11 @@
 
 **Aplicações e Dados**
 
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JavaScript)
-![LUA](https://img.shields.io/badge/-LUA-333333?style=flit&logo=lua&logocolor=2C2D72)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JavaScript&logocolor=1572B6)
+![LUA](https://img.shields.io/badge/-LUA-333333?style=flit&logo=lua)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flit&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flit&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flit&logo=css3&iconcolor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flit&logo=css3)
 ![]()
 ![]()
 ![]()
