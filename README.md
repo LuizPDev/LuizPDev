@@ -19,7 +19,7 @@
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JavaScript)
 ![LUA](https://img.shields.io/badge/-LUA-333333?style=flit&logo=lua&labelColor=ffffff)
-![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flit&logo=python&labelColor=85888c)
+![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flit&logo=python&labelColor=061c3b)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flit&logo=html5)
 ![]()
 ![]()
