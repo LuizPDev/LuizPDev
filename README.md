@@ -8,7 +8,7 @@
 
 
 - 🎓 &nbsp; Estudando Programação **FULL STACK** na <a href="https://infinityschool.com.br">Infinity School</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **REACT JS**.
+- 🌱 &nbsp; Aprendendo mais sobre **REACT, NODE.JS, PYTHON, HTML5, CSS3**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
