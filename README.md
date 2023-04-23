@@ -17,8 +17,8 @@
 
 **Aplicações e Dados**
 
-![Javascript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
-![]()
+![Javascript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=JavaScript)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flit&logo=lua)
 ![]()
 ![]()
 ![]()
