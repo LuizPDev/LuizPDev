@@ -1,6 +1,3 @@
-[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logoColor=black&color=FF0080)](https://github.com/LuizPDev)
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![](https://komarev.com/ghpvc/?username=LuizPDev&color=006bed)
