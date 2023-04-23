@@ -28,8 +28,12 @@
 
 **DevOps**
 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+![]()
+![]()
+![]()
+![]()
 
 **Ferramentas de Desenvolvimento**
 
