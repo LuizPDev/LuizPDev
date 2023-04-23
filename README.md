@@ -17,7 +17,7 @@
 
 **Aplicações e Dados**
 
-![LUA](https://img.shields.io/badge/-LUA-333333?style=flit&logo=lua&logoColor=2C2D72)
+![LUA](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JavaScript)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flit&logo=python)
 ![REACT](https://img.shields.io/badge/-REACT-333333?style=flit&logo=react)
