@@ -1,11 +1,10 @@
-## Olá! Eu sou o Luiz Pedro 🖐️
+## Olá! Eu sou o Luiz 🖐️
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![](https://komarev.com/ghpvc/?username=LuizPDev&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
-
 
 
 - 🎓 &nbsp; Estudando Programação **FULL STACK** na <a href="https://infinityschool.com.br">Infinity School</a>.
@@ -39,7 +38,6 @@
 <br/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=LuizPDev&theme=radical&show_icons=true)](https://github.com/LuizPDev)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPDev&hide=html&layout=compact=true&theme=radical)](https://github.com/LuizPDev)
 
 <br/>
 
