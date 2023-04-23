@@ -17,7 +17,7 @@
 
 **Aplicações e Dados**
 
-![Javascript](https://img.shields.io/badge/-javascript-333333?style=plastic&logo=javascript)
+![Javascript](https://img.shields.io/badge/-javascript-333333?style=flat-square&logo=javascript)
 ![]()
 ![]()
 ![]()
