@@ -1,10 +1,9 @@
-[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logoColor=black&color=FF0080)](https://github.com/Luiz-coder911)
-[![DISCORD](https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logoColor=white&color=5865F2)](https://discord.gg/w7nfRHdz9w)
+[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logoColor=black&color=FF0080)](https://github.com/LuizPDev)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![](https://komarev.com/ghpvc/?username=Luiz-coder911&color=006bed)
+![](https://komarev.com/ghpvc/?username=LuizPDev&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
@@ -40,15 +39,15 @@
 
 <br/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=Luiz-coder911&theme=radical&show_icons=true)](https://github.com/Luiz-coder911)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-coder911&hide=html&layout=compact=true&theme=radical)](https://github.com/Luiz-coder911)
+[![card](https://github-readme-stats.vercel.app/api?username=LuizPDev&theme=radical&show_icons=true)](https://github.com/LuizPDev)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPDev&hide=html&layout=compact=true&theme=radical)](https://github.com/LuizPDev)
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 ![Discord: lz"#0001](https://img.shields.io/badge/-lz"%230001-006bed?style=flat-square&logo=Discord&logoColor=white&color=5865F2)
-[![GitHub: Luiz-coder911]( https://img.shields.io/github/followers/Luiz-coder911?label=follow&style=social)](https://github.com/Luiz-coder911)
+[![GitHub: LuizPDev]( https://img.shields.io/github/followers/LuizPDev?label=follow&style=social)](https://github.com/LuizPDev)
 
 
-![Snake animation](https://github.com/Luiz-coder911/Luiz-coder911/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuizPDev/LuizPDev/blob/output/github-contribution-grid-snake.svg)
