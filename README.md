@@ -38,7 +38,7 @@
 <br/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=LuizPDev&theme=radical&show_icons=true)](https://github.com/LuizPDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPDev&langs_count=8)](https://github.com/LuizPDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPDev&langs_count=8&theme=radical)](https://github.com/LuizPDev/github-readme-stats)
 
 <br/>
 
