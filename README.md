@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&color=FFF&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I%27m+Luiz.+👨%E2%80%8D💻)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&color=FFF&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I%27m+Luiz.+👨%E2%80%8D💻)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
