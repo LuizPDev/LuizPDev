@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&color=FFF&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I%27m+Luiz.+👨%E2%80%8D💻)
+![Welcome! I'm Luiz](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&color=FFF&background=64FF4700&center=true&vCenter=true&width=1000&lines=Welcome!+I%27m+Luiz.+👨%E2%80%8D💻)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![](https://komarev.com/ghpvc/?username=LuizPDev&color=006bed)
+![Profile Views](https://komarev.com/ghpvc/?username=LuizPDev&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
@@ -37,7 +37,7 @@
 
 <br/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=LuizPDev&theme=radical&show_icons=true)](https://github.com/LuizPDev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizPDev&theme=radical&show_icons=true)](https://github.com/LuizPDev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPDev&langs_count=8&theme=radical)](https://github.com/LuizPDev/github-readme-stats)
 
 <br/>
