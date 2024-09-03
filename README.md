@@ -44,7 +44,7 @@
 
 <h3> 🌎&nbsp;Onde me encontrar: </h3> 
 
-![Discord: lz"#0001](https://img.shields.io/badge/-lz"%230001-006bed?style=flat-square&logo=Discord&logoColor=white&color=5865F2)
+![Discord: lz__](https://img.shields.io/badge/-lz"%230001-006bed?style=flat-square&logo=Discord&logoColor=white&color=5865F2)
 [![GitHub: LuizPDev]( https://img.shields.io/github/followers/LuizPDev?label=follow&style=social)](https://github.com/LuizPDev)
 
 
