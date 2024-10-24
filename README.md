@@ -7,7 +7,6 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 
-- 🎓 &nbsp; Estudando Programação **FULL STACK** na <a href="https://infinityschool.com.br">Infinity School</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **React, Node.js, Python, JavaScript, Html5, Css3**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
