@@ -4,11 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LuizPDev&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
-
-
-- 🌱 &nbsp; Aprendendo mais sobre **React, Node.js, Python, JavaScript, Html5, Css3**.
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -22,14 +17,10 @@
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**DevOps**
+**Ferramentas de Desenvolvimento**
 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
-
-**Ferramentas de Desenvolvimento**
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![unity](https://img.shields.io/badge/unity-615f5f?style=for-the-badge&logo=unity&logoColor=white)
@@ -46,5 +37,3 @@
 ![Discord: lz__](https://img.shields.io/badge/-lz__-006bed?style=flat-square&logo=Discord&logoColor=white&color=5865F2)
 [![GitHub: LuizPDev]( https://img.shields.io/github/followers/LuizPDev?label=follow&style=social)](https://github.com/LuizPDev)
 
-
-![Snake animation](https://github.com/LuizPDev/LuizPDev/blob/output/github-contribution-grid-snake.svg)
