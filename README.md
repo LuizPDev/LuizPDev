@@ -27,11 +27,6 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizPDev&theme=radical&show_icons=true)](https://github.com/LuizPDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPDev&langs_count=8&theme=radical)](https://github.com/LuizPDev/github-readme-stats)
-
-<br/>
-
 <h3> 🌎&nbsp;Onde me encontrar: </h3> 
 
 ![Discord: lz__](https://img.shields.io/badge/-lz__-006bed?style=flat-square&logo=Discord&logoColor=white&color=5865F2)
